@@ -7,7 +7,7 @@ now there is a logout option. Simple but it taught me a lot.
 
 The server can be run from within the same directory as manage.py with the command `python manage.py runserver`
 
-[Software Demo Video](http://youtube.link.goes.here)
+[Software Demo Video](https://youtu.be/2PgSo4OzzxI)
 
 # Web Pages
 
